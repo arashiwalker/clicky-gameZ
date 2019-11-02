@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "image": "/images/img1.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/img2.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/img3.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/img4.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/img5.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/images/img6.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/images/img7.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/images/img8.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/images/img9.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/images/img10.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/images/img11.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/images/img12.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/images/img13.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "/images/img14.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/images/img15.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/images/img16.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "/images/img17.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "/images/img18.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "image": "/images/img19.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "image": "/images/img20.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "image": "/images/img21.png",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "image": "/images/img22.png",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "image": "/images/img23.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "image": "/images/img24.png",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "image": "/images/img25.png",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "image": "/images/img26.png",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "image": "/images/img27.png",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "image": "/images/img28.png",
+    "clicked": false
+  },
+  {
+    "id": 29,
+    "image": "/images/img29.png",
+    "clicked": false
+  },
+  {
+    "id": 30,
+    "image": "/images/img30.png",
+    "clicked": false
+  },
+  {
+    "id": 31,
+    "image": "/images/img31.png",
+    "clicked": false
+  },
+  {
+    "id": 32,
+    "image": "/images/img32.png",
+    "clicked": false
+  }
+]
